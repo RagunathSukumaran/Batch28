@@ -1,2 +1,2 @@
 # Batch28
-1.Sneha Kumar
+1. Sneha Kumar
